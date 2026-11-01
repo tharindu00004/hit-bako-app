@@ -188,7 +188,7 @@ class _AdminDashboardScreenState extends State<AdminDashboardScreen> {
                     title: 'ගනුදෙනු විමසීම්',
                     value: '3,450',
                     subtitle: 'රු. 85M සම්පූර්ණ අගය',
-                    color: Colors.emerald,
+                    color: Colors.green,
                     icon: Icons.phone_in_talk_rounded,
                   ),
                 ),
